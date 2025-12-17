@@ -6,6 +6,7 @@ Note: The downloaded L-BFGS algorithm files should be added to the MATLAB path b
 
 ## Reference
 N. Ahmed, W. W. Weibull, and D. Grana, “Constrained non-linear AVO inversion based on the adjoint-state optimization,” Comput. Geosci., vol. 168, pp. 105214, Nov. 2022, doi: 10.1016/j.cageo.2022.105214.
+
 D. Zhao, C. Liu, and Z. Guo, “Estimation of interlayer elastic dispersion attributes based on a new frequency-dependent elastic impedance inversion method,” IEEE Trans. Geosci. Remote Sens., vol. 61, pp. 5921411, Nov. 2023, doi: 10.1109/TGRS.2023.3329514.
 
 ## Reproducibility
